@@ -1,0 +1,2 @@
+- created a changlog.md file
+- @ian-wairimu/npm-modules: Initial Commit
