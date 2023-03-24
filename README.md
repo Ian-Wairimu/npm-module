@@ -1,0 +1,1 @@
+this is an npm module am trying to implement here using the how-to-npm module
