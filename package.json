@@ -1,17 +1,22 @@
 {
   "name": "@ian-wairimu/npm-modules",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "this is an npm module",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
   },
   "repository": {
-    "url": "https://github.com/Ian-Wairimu/npm-module.git"
+    "url": "git+https://github.com/Ian-Wairimu/npm-module.git"
   },
   "author": "ian wairimu",
   "license": "MIT",
   "dependencies": {
     "@linclark/pkg": "^1.0.3"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/Ian-Wairimu/npm-module/issues"
+  },
+  "homepage": "https://github.com/Ian-Wairimu/npm-module#readme",
+  "devDependencies": {}
 }
